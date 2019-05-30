@@ -13,6 +13,12 @@ $(document).ready(function(){
 });
 
 
+
+
 // reg javascript
 
+
+
 var options = ['rock', 'paper', 'scissors']
+var computer = options[Math.floor(Math.random() * options.length)];
+console.log(computer)
