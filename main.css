@@ -46,12 +46,7 @@ h1  {
 
 }
 
-#computer {
-  height: 10em;
-  width: 10em;
-  border: 1px solid black;
-  color: rgb(1, 1, 1)
-}
+
 
 #winner {
   display: none;
@@ -60,3 +55,8 @@ h1  {
   border: 1px solid black;
   color: rgb(1, 1, 1)
 }
+#r{display: none;}
+#p{display: none;}
+#s{display: none;}
+#c{display: none;}
+#w{display: none;}
